@@ -51,6 +51,7 @@ make haskell
 make javascript
 make kotlin
 make python
+make red-docker
 make ruby
 make rust
 make rye-docker
@@ -76,7 +77,9 @@ P.s.: If you feel the urge that you need to benchmark your solution agains other
 ## Authors
 
 - [Andraž Brodnik](http://github.com/brodul)
+- [Boleslav Březovský](http://github.com/rebolek)
 - [David Ličen](https://github.com/davision)
+- [Gregg Irwin](https://github.com/greggirwin)
 - [Janko Metelko](https://github.com/refaktor)
 - [Jernej Virag](https://github.com/izacus)
 - [Klemen Kogovšek](https://github.com/kkogovsek)
